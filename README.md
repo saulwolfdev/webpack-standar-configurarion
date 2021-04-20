@@ -1,5 +1,5 @@
 # webpack-configuracion-estandar
-Fin de la sección 8
+entorno de desarrollo para vanilla js
 
 
 ## Nota
